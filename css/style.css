@@ -20492,14 +20492,14 @@ a.icon-rect.fa-twitter:hover, a.icon-circle.fa-twitter:hover, a.icon-outlined.fa
 	background: #28d4f9;
 }
 
-a.icon-rect.fa-google-plus:hover, a.icon-circle.fa-google-plus:hover, a.icon-outlined.fa-google-plus:hover, a.icon-rounded.fa-google-plus:hover {
+a.icon-rect.fa-google-plus:hover, a.icon-circle.fa-youtube:hover, a.icon-outlined.fa-google-plus:hover, a.icon-rounded.fa-google-plus:hover {
 	color: #fff;
-	background: #f96a23;
+	background: #ff0000;
 }
 
-a.icon-rect.fa-linkedin:hover, a.icon-circle.fa-linkedin:hover, a.icon-outlined.fa-linkedin:hover, a.icon-rounded.fa-linkedin:hover {
+a.icon-rect.fa-linkedin:hover, a.icon-circle.fa-instagram:hover, a.icon-outlined.fa-linkedin:hover, a.icon-rounded.fa-linkedin:hover {
 	color: #fff;
-	background: #0E7EB5;
+	background: #572364;
 }
 
 a.icon-rect.fa-500px:hover, a.icon-circle.fa-500px:hover, a.icon-outlined.fa-500px:hover, a.icon-rounded.fa-500px:hover {
